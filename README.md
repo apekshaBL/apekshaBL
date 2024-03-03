@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Apeksha Lokhande
+=====================================================================================================================================
 
-<!--
-**apekshaBL/apekshaBL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I Love to develop new web apps
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Shrirampur
+* 🖥️  See my portfolio at [My portfolio](http://myapp.dev)
+* ✉️  You can contact me at [apekshalokhande8600@gmail.com](mailto:apekshalokhande8600@gmail.com)
+* 🚀  I'm currently working on [Blog Website](http://github.com/apekshaBL/MERN-ESTATE-WEBSITE)
+* 🧠  I'm learning Reactjs and JAVA
+* 🤝  I'm open to collaborating on Other Web Projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
