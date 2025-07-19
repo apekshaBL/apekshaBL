@@ -33,16 +33,16 @@
 - 🎓 **Learning Management System (LMS)**  
   Built a feature-rich LMS with course, lecture, and subscription management.  
   Tech: Node.js, Express, Razorpay, JWT, MongoDB  
-  [💻 GitHub Repo](https://github.com/ganeshlonare)
+  [💻 GitHub Repo](https://github.com/apekshaBL)
 
 ---
 
 ## 📬 Get in Touch
 
-- 📧 Email: [ganeshlonare2003@gmail.com](mailto:apekshalokhande8600@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ganeshlonare](https://www.linkedin.com/in/apekshalokhande)
-- 🌐 Portfolio: [ganeshlonare.vercel.app](https://apekshalokhande.vercel.app)
-- 💻 GitHub: [github.com/ganeshlonare](https://github.com/apekshaBL)
+- 📧 Email: [apekshalokhande8600@gmail.com](mailto:apekshalokhande8600@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/apekshalokhande](https://www.linkedin.com/in/apekshalokhande)
+- 🌐 Portfolio: [apekshalokhande.vercel.app](https://apekshalokhande.vercel.app)
+- 💻 GitHub: [github.com/apekshaBL](https://github.com/apekshaBL)
 
 ---
 
