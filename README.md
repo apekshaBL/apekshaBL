@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ganesh Lonare</h1>
+<h1 align="center">Hi there 👋, I'm Apeksha Lokhande</h1>
 <h3 align="center">A Passionate Full Stack Developer | Java & MERN Stack Enthusiast</h3>
 
 ---
@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, JavaScript, TypeScript, SQL, C++
+- **Languages:** Java, JavaScript, TypeScript, SQL
 - **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS
 - **Backend:** Node.js, Express.js, Spring Boot, Hono (Cloudflare Workers)
 - **Database:** PostgreSQL, MySQL, MongoDB
@@ -30,11 +30,6 @@
 
 ## 📌 Projects I'm Proud Of
 
-- 🚀 **Smart India Hackathon Project (DoP)**  
-  An e-commerce platform connecting the Indian diaspora with local artisans in India.  
-  Tech: Next.js, Turborepo, PostgreSQL, Node.js, Clerk Auth  
-  [🔗 Live Preview](https://ganeshlonare.vercel.app) | [💻 GitHub](https://github.com/ganeshlonare)
-
 - 🎓 **Learning Management System (LMS)**  
   Built a feature-rich LMS with course, lecture, and subscription management.  
   Tech: Node.js, Express, Razorpay, JWT, MongoDB  
@@ -44,10 +39,10 @@
 
 ## 📬 Get in Touch
 
-- 📧 Email: [ganeshlonare2003@gmail.com](mailto:ganeshlonare2003@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ganeshlonare](https://www.linkedin.com/in/ganeshlonare)
-- 🌐 Portfolio: [ganeshlonare.vercel.app](https://ganeshlonare.vercel.app)
-- 💻 GitHub: [github.com/ganeshlonare](https://github.com/ganeshlonare)
+- 📧 Email: [ganeshlonare2003@gmail.com](mailto:apekshalokhande8600@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ganeshlonare](https://www.linkedin.com/in/apekshalokhande)
+- 🌐 Portfolio: [ganeshlonare.vercel.app](https://apekshalokhande.vercel.app)
+- 💻 GitHub: [github.com/ganeshlonare](https://github.com/apekshaBL)
 
 ---
 
